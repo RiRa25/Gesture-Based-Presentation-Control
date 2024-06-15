@@ -5,16 +5,10 @@ Drive Link for Presentation, Demonstration Video and UI : https://drive.google.c
 
 Gestures and Their Actions:
 
-Swipe Left: (Thumb extended) Moves to the previous slide.
-
-Swipe Right: (Four fingers extended) Moves to the next slide.
-
-Pointer: (Index and middle fingers extended) Displays a pointer on the current slide.
-
-Drawing: (Index finger extended) Draws annotations on the slide.
-
-Erase: (All fingers extended) Removes the last annotation.
-
-Zoom In: (Index finger and thumb extended) Increases the zoom level of the current slide.
-
-Zoom Out: (All fingers closed) Decreases the zoom level of the current slide.
+1) Swipe Left: (Thumb extended) Moves to the previous slide.
+2) Swipe Right: (Four fingers extended) Moves to the next slide.
+3) Pointer: (Index and middle fingers extended) Displays a pointer on the current slide.
+4) Drawing: (Index finger extended) Draws annotations on the slide.
+5) Erase: (All fingers extended) Removes the last annotation.
+6) Zoom In: (Index finger and thumb extended) Increases the zoom level of the current slide.
+7) Zoom Out: (All fingers closed) Decreases the zoom level of the current slide.
